@@ -1,7 +1,7 @@
 @echo off
 ::code by João Avila::
 setlocal enabledelayedexpansion
-set origem=C:\pasta_de _origem\
+set origem=C:\pasta_de_origem\
 set destino=C:\pasta_de_destino\
 set autorizados=\Prod\Enviado\Autorizados
 set denegados=\Prod\Enviado\Denegados
