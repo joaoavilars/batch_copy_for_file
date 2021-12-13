@@ -1,9 +1,8 @@
 @echo off
 ::code by João Avila::
 setlocal enabledelayedexpansion
-set origem=C:\SivaServer\SivaFiles\Files_SivaNFe\Uninfe\
-set destino=C:\SivaDisc\SivaServer\SivaFiles\Files_SivaNFe\Uninfe\
-::set destino=C:\Temp\
+set origem=C:\pasta_de _origem\
+set destino=C:\pasta_de_destino\
 set autorizados=\Prod\Enviado\Autorizados
 set denegados=\Prod\Enviado\Denegados
 for %%i in (*.txt) do (
